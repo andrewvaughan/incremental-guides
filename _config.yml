@@ -1,1 +1,11 @@
+# This site is generated using GitHub pages and the Minimalist theme
+#
+# @link https://pages.github.com
+# @link https://github.com/pages-themes/minimal
+
 theme: jekyll-theme-minimal
+
+title: "Andrew's Incremental Game Guides"
+description: "Simple strategies for incremental and idle games."
+
+show_downloads: false
